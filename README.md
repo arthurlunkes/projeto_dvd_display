@@ -1,8 +1,5 @@
 # Simulação de Colisões - DVD Bouncing
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)
-
 Simulação em Python com Pygame que reproduz colisões entre objetos retangulares, baseada no clássico efeito de protetor de tela do DVD.
 
 ## 📋 Descrição do Projeto
@@ -147,10 +144,6 @@ Este projeto atende aos seguintes requisitos do desafio:
 - [ ] Adicionar rastros de movimento
 - [ ] Implementar gravidade e fricção
 - [ ] Permitir interação com mouse
-
-##  Licença
-
-Este projeto é de livre uso para fins educacionais.
 
 ---
 
